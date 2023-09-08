@@ -1,0 +1,9 @@
+# HTTP Method   -(REST API)
+
+1. GET
+2. CREATE
+3. INSERT
+4. UPDATE
+5. DELETE
+
+Using fetch and axios.
